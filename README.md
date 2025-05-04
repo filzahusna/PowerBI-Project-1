@@ -9,5 +9,6 @@ Sales Data
 - Analysis/DAX
 - Dashboard Building/Data Visualisation
 
-![](Screenshot%202025-05-04%20042926.png)
+![](ezgif.com-animated-gif-maker)
+
 
